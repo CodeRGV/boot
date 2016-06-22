@@ -7,3 +7,4 @@
 | Ricco Chapa      | @riccochapa       | http://github.com/riccochapa/resume       |
 | Steve Alvarado   | @stevealvaradorgv | http://github.com/stevealvaradorgv/resume |
 | Javier Marroquin | @javmarr          | http://github.com/javmarr/resume          |
+| Pamela Garza     | @pamsny           | https://github.com/pamsny/resume          |
