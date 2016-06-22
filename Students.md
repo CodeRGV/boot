@@ -1,6 +1,6 @@
 ### Enter your name, GitHub Profile, and resume link below
 
-<<<<<<< HEAD
+
 | Full name          | Username          | Resume URL                                | Website URL                |
 |--------------------|-------------------|-------------------------------------------|----------------------------|
 | Joel Garza (TX)    | @joelgarzatx      | http://github.com/joelgarzatx/resume      |                            |
@@ -8,6 +8,6 @@
 | Ricco Chapa        | @riccochapa       | http://github.com/riccochapa/resume       |                            |
 | Steve Alvarado     | @stevealvaradorgv | http://github.com/stevealvaradorgv/resume |                            |
 | Javier Marroquin   | @javmarr          | http://github.com/javmarr/resume          |                            |
-| Jackelyn Llanas    | @jllanas          | https://githutb.com/jllanas/resume        | http://jllanas.github.io/          |
+| Jackelyn Llanas    | @jllanas          | https://githutb.com/jllanas/resume        | http://jllanas.github.io/  |
 | Pamela Garza       | @pamsny           | https://github.com/pamsny/resume          |                            |
 | Samantha Indalecio | @samcio           | https://github.com/samcio/resume          |                            |
