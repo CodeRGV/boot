@@ -5,3 +5,4 @@
 | Joel Garza (TX)    | @joelgarzatx | https://github.com/joelgarzatx/resume |
 | Alberto Vilano     | @avilano     | https://github.com/avilano/Resume     |
 | Samantha Indalecio | @samcio      | https://github.com/samcio/resume      |
+| Ricco Chapa        | @riccochapa  | https://github.com/riccochapa/resume  |
