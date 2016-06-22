@@ -2,7 +2,7 @@
 
 | Full name          | Username          | Resume URL                                | Website URL                       |
 |--------------------|-------------------|-------------------------------------------|-----------------------------------|
-| Joel Garza (TX)    | @joelgarzatx      | http://github.com/joelgarzatx/resume      |                                   |
+| Joel Garza (TX)    | @joelgarzatx      | http://github.com/joelgarzatx/resume      | https://joelgarzatx.github.io/                                  |
 | Alberto Vilano     | @avilano          | https://github.com/avilano/Resume         | https://avilano.github.io/        |
 | Ricco Chapa        | @riccochapa       | http://github.com/riccochapa/resume       | https://riccochapa.github.io      |
 | Steve Alvarado     | @stevealvaradorgv | http://github.com/stevealvaradorgv/resume | http://stevealvaradorgv.github.io |
