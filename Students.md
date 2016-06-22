@@ -1,5 +1,6 @@
 ### Enter your name, GitHub Profile, and resume link below
 
-| Full name      | Username | Resume URL               |
-|----------------|----------|--------------------------|
-| Olmo Maldonado | @ibolmo  | http://github.com/ibolmo |
+| Full name      | Username     | Resume URL                           |
+|----------------|--------------|--------------------------------------|
+| Joel Garza (TX)| @joelgarzatx | http://github.com/joelgarzatx/resume |
+| Alberto Vilano | @avilano     | https://github.com/avilano/Resume    |
