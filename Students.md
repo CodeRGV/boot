@@ -8,5 +8,4 @@
 | Steve Alvarado     | @stevealvaradorgv | http://github.com/stevealvaradorgv/resume | http://stevealvaradorgv.github.io |
 | Javier Marroquin   | @javmarr          | http://github.com/javmarr/resume          |                                   |
 | Jackelyn Llanas    | @jllanas          | https://githutb.com/jllanas/resume        | http://jllanas.github.io/         |
-| Pamela Garza       | @pamsny           | https://github.com/pamsny/resume          |                                   |
-| Samantha Indalecio | @samcio           | https://github.com/samcio/resume          |                                   |
+| Pamela Garza       | @pamsny           | https://github.com/pamsny/resume          | https://pamsny.github.io/         |                   | Samantha Indalecio | @samcio           | https://github.com/samcio/resume          |                                   |
