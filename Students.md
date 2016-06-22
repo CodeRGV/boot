@@ -4,7 +4,7 @@
 |--------------------|-------------------|-------------------------------------------|-----------------------------------|
 | Joel Garza (TX)    | @joelgarzatx      | http://github.com/joelgarzatx/resume      |                                   |
 | Alberto Vilano     | @avilano          | https://github.com/avilano/Resume         | https://avilano.github.io/        |
-| Ricco Chapa        | @riccochapa       | http://github.com/riccochapa/resume       |                                   |
+| Ricco Chapa        | @riccochapa       | http://github.com/riccochapa/resume       | https://riccochapa.github.io      |
 | Steve Alvarado     | @stevealvaradorgv | http://github.com/stevealvaradorgv/resume | http://stevealvaradorgv.github.io |
 | Javier Marroquin   | @javmarr          | http://github.com/javmarr/resume          |                                   |
 | Jackelyn Llanas    | @jllanas          | https://githutb.com/jllanas/resume        |                                   |
