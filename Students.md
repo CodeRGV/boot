@@ -1,6 +1,5 @@
 ### Enter your name, GitHub Profile, and resume link below
 
-
 | Full name          | Username          | Resume URL                                | Website URL                       |
 |--------------------|-------------------|-------------------------------------------|-----------------------------------|
 | Joel Garza (TX)    | @joelgarzatx      | http://github.com/joelgarzatx/resume      |                                   |
