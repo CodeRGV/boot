@@ -9,4 +9,4 @@
 | Javier Marroquin   | @javmarr          | http://github.com/javmarr/resume          |                            |
 | Jackelyn Llanas    | @jllanas          | https://githutb.com/jllanas/resume        |                            |
 | Pamela Garza       | @pamsny           | https://github.com/pamsny/resume          |                            |
-| Samantha Indalecio | @samcio           | https://github.com/samcio/resume          |                            |
+| Samantha Indalecio | @samcio           | https://github.com/samcio/resume          |  https://samcio.github.io/ |
