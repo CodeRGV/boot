@@ -1,6 +1,6 @@
 ### Fall 2016 Cohort
 
-| Full name          				    | Username          | Resume URL                                | Website URL                       |
+| Full Name          				    | Github Username   | Resume URL                                | Personal Website URL              |
 |-------------------------------|-------------------|-------------------------------------------|-----------------------------------|           
 | Elia Rodriguez								|										|																						| 																	|
 | Tien Mata											|										|																						| 																	|										
