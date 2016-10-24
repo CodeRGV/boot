@@ -1,5 +1,5 @@
 # Guestbook
-#### Week 3 - Day 4.2
+#### Week 4 - Day 1 {Running Challenge}
 
 ### Assignment
 Create a small guestbook, using node.js, express.js, MongoDB and Jade.
