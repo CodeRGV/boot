@@ -18,3 +18,4 @@ Here you can find all the resources for Week 1
 | Get Started with Git                                       | git, video tutorial              | https://www.youtube.com/watch?v=RrdECLvHW6g&feature=share                           |
 | Command Line Cheat Sheet                                   | cli, cheat sheet                 | https://www.git-tower.com/learn/cheat-sheets/cli                                    |
 | Automate the Boring Stuff with Python                      | python, online book              | https://automatetheboringstuff.com/                                                 |
+| Learn how to do pull requests in git                      | git, task tutorial              | https://yangsu.github.io/pull-request-tutorial/                                     |
