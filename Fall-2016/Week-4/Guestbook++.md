@@ -1,32 +1,34 @@
-# Guestbook
-#### Week 4 - Day 3 {Running Challenge}
+# Guestbook++;
+#### Week 4 {Running Challenge}
 
 ### Assignment
-Create a small guestbook, using node.js, express.js, MongoDB and Jade.
+Build upon your original guestbook, time to make it great. Turns out your guestbook was spammed so we now need to add email and password authentication, and social authentication to get rid of this anonymous spam.
 
-###### The users of your guestbook should be able to
-  - Sign the guestbook (req fields: name, email, message)
-  - See everyone else that has signed the guestbook
-  - Be able to link a specific note, using a unique id
+###### Implement the following features
+	- Login with email and password
+		- Passwords must be encrypted using bcrypt and a salt
+		- Everything should be securely stored in a user object in your DB
+	- At least 2 social logins (i.e. Facebook, Twitter, Github, etc.)
+		- Your users should also be given the option to login using their favorite social network
+		- If they do authenticate with a social network store their profile image which you can query from the respective social network's API
+	- If they __do__ have a profile picture link in your database (you would only have this if they logged in with FB/Twitter etc.) then display it next to their guestbook entry. If they __do not__ then display a dummy place holder, have fun with this.
+	- Think about security, implement the best security practices
 
-###### In the backend
-  - You should store your data appropriately in MongoDB
-  - Every note should get a unique ID
-  - You should use REST standards and you should have a clean API, ex:
-    -  /guestbook/{id} - GET, POST, DELETE, etc.
-    -  /guestbook
+###### A couple of things to think about
+	- This is assignment is more open ended think about the coding decisions you will make before starting to write your code. Map out how everything will look. Ask yourself how will I solve this problem?
+	- You can change anything from your original code, anything goes.
+	- Think about how you will differentiate between facebook and normal users. Here is an example:
+		⋅⋅⋅ Let's say I create an account in your guestbook using email and password authentication. My email is bob@codergv.org, later I come back and I log in with Facebook. In my facebook account my primary email is bob@codergv.org. 
+		Should I be redirected back to my original account? Or should a new account be created?
 
 ### Submission
 
-Create a github repo called guestbook, and post the link to Slack.
+Post your progress to your original repo, __do not__ make one big commit when you are done. 
+
+Record your progress, all your commit messages should be insightful on what work you are submitting.
 
 ```
 https://github.com/{username}/guestbook
 ```
 
 ### Resources
-http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/
-
-http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
-
-https://devcenter.heroku.com/articles/mean-apps-restful-api#create-a-restful-api-server-with-node-js-and-express
