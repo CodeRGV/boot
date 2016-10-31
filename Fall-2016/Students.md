@@ -15,4 +15,5 @@
 | Marco Barrientos							|										|																						| 																	|
 | Laura Morfin									|										|																						| 																	|
 | Casey Cantu										|										|																						| 																	|
-| José Adrian Cantu							|										|																						| 																	|
+| José Adrian Cantu							
+| Christina Phillips|										|																						| 																	|
