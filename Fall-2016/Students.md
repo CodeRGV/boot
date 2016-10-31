@@ -1,4 +1,4 @@
-### Fall 2016 Cohort
+﻿### Fall 2016 Cohort
 
 | Full Name          				    | Github Username   | Resume URL                                | Personal Website URL              |
 |-------------------------------|-------------------|-------------------------------------------|-----------------------------------|           
@@ -17,3 +17,4 @@
 | Casey Cantu										|										|																						| 																	|
 | José Adrian Cantu							
 | Christina Phillips|										|																						| 																	|
+|Leonardo I. Escandon Jackson|   Bururik   |   https://github.com/Bururik/boot_warmup/blob/master/resume_10-11-2016.md   |   Non Existent   |
