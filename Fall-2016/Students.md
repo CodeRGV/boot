@@ -2,7 +2,7 @@
 
 | Full Name          				    | Github Username   | Resume URL                                | Personal Website URL              |
 |-------------------------------|-------------------|-------------------------------------------|-----------------------------------|           
-| Elia Rodriguez								|										|																						| 																	|
+| Elia Rodriguez								|	lost-kitten                   |https://github.com/lost-kitten/boot_warmup/tree/master/week02										|																						| 																	|
 | Tien Mata											|										|																						| 																	|										
 | Edgar Salinas									|										|																						| 																	|
 | Sarah Silvia									|										|																						| 																	|
