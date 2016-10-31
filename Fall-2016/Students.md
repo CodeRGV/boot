@@ -8,7 +8,7 @@
 | Sarah Silvia									|										|																						| 																	|
 | Gulmaro Salinas								|										|																						| 																	|
 | Gabriel Escobedo							|										|																						| 																	|
-| Joshua Garza									|										|																						| 																	|
+| Joshua Garza									|Joshmcallen				|https://github.com/Joshmcallen/boot_warmup/blob/master/week02/resume.md																						| 																	|
 | Jesus Marco ll A. del Carmen  |										|																						| 																	|
 | Andrew Valdez								  |										|																						| 																	|
 | Silvia Ramirez								|										|																						| 																	|
