@@ -6,7 +6,7 @@
 | Tien Mata											|										|																						| 																	|										
 | Edgar Salinas									|										|																						| 																	|
 | Sarah Silvia									|										|																						| 																	|
-| Gulmaro Salinas								|										|																						| 																	|
+| Gulmaro Salinas								|	https://github.com/Djaw	|	|	gsalinasj.com																				| 																	|
 | Gabriel Escobedo							|										|																						| 																	|
 | Joshua Garza									|										|																						| 																	|
 | Jesus Marco ll A. del Carmen  |										|																						| 																	|
