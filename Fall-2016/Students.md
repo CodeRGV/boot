@@ -6,7 +6,7 @@
 | Tien Mata											|										|																						| 																	|										
 | Edgar Salinas									|										|																						| 																	|
 | Sarah Silvia									|										|																						| 																	|
-| Gulmaro Salinas								|										|																						| 																	|
+| Gulmaro Salinas								|	https://github.com/Djaw	|	|	http://gsalinasj.com																				| 																	|
 | Gabriel Escobedo							|										|																						| 																	|
 | Joshua Garza									|										|																						| 																	|
 | Jesus Marco ll A. del Carmen  |   	jmdelcarmen  	|	 https://github.com/jmdelcarmen/boot_warmup |http://79.170.40.178/jmdcwebdev.co.uk/	|
