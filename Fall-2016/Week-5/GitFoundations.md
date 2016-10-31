@@ -15,3 +15,15 @@ To solidify your foundation of git we will mimic many of the operations that hap
 2. Add/Edit their TodoList
 3. Add, Commit, Push.
 4. Create a pull request, describing the changes you made.
+
+#### Part 3 - Become a student.md!
+1. Fork `boot`
+2. Add yourself (if missing), and add your github to Students.md
+3. Add, Commit, Push.
+4. Create a pull request, describing the changes you made.
+
+#### Part 4 - What do you want to learn?
+1. With the same fork of `boot`
+2. Add topics you would like to learn to WhatIWantToLearn.md
+3. Add, Commit, Push.
+4. Create a pull request, describing the changes you made.
