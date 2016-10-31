@@ -6,3 +6,5 @@ WhatIWantToLearn.md
 |Sass            				|	Christina Phillips			|
 |-------------------------------|-------------------------------|           
 |React, analytics, mobile apps  | sarahsilva1                   |
+|-------------------------------|-------------------------------|
+|SASS, Gulp, React-native, UX/UI| github/jmdelcarmen 			|
