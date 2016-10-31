@@ -13,6 +13,6 @@
 | Andrew Valdez								  |										|																						| 																	|
 | Silvia Ramirez								|										|																						| 																	|
 | Marco Barrientos							|										|																						| 																	|
-| Laura Morfin									|										|																						| 																	|
+| Laura Morfin									|https://github.com/LauraMorfin										|																						| 																	|
 | Casey Cantu										|										|																						| 																	|
 | José Adrian Cantu							|										|																						| 																	|
