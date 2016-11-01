@@ -12,7 +12,7 @@
 | Joshua Garza									|Joshmcallen				|https://github.com/Joshmcallen/boot_warmup/blob/master/week02/resume.md																						| 																	|
 | Silvia Ramirez								|https://github.com/slyram69/Todo|																						| 																	|
 | Marco Barrientos							|										|																						| 																	|
-| Laura Morfin									|										|																						| 																	|
+| Laura Morfin									|https://github.com/LauraMorfin										|																						| 																	|
 | Casey Cantu										|										|																						| 																	|
 | José Adrian Cantu							
 | Christina Phillips|										|																						| 																	|
