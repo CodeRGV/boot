@@ -4,7 +4,7 @@
 |-------------------------------|-------------------|-------------------------------------------|-----------------------------------|           
 | Elia Rodriguez								|										|																						| 																	|
 | Tien Mata											|										|																						| 																	|										
-| Edgar Salinas									|										|																						| 																	|
+| Edgar Salinas									|	EdgarHSalinas									|			https://github.com/EdgarHSalinas																			| 																	|
 | Sarah Silva								  	|sarahsilva1				|https://github.com/sarahsilva1/boot_warmup/blob/master/week02/resume.md																						| 																	|
 | Gulmaro Salinas								|	https://github.com/Djaw	|	|	http://gsalinasj.com																				| 																	|
 | Gabriel Escobedo							|										|														| 	
