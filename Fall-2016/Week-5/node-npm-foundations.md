@@ -10,8 +10,8 @@ To solidify your foundation and confidence of raw node.js and npm, we will be wo
 
 ---
 ### Node.js Foundations 
-To get you to be more comfortable with node.js, we will using the [learnyournode](https://github.com/workshopper/learnyounode) exercise.
-Follow the instructions on [learnyournode](https://github.com/workshopper/learnyounode), on how to get started.
+To get you to be more comfortable with node.js, we will using the [learnyounode](https://github.com/workshopper/learnyounode) exercise.
+Follow the instructions on [learnyounode](https://github.com/workshopper/learnyounode), on how to get started.
 
 #### Requirements & Goals
 **Level 2-3: Minimum Requirement = Passing = #junior-dev**<br />
