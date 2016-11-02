@@ -3,7 +3,7 @@
 | Full Name          				    | Github Username   | Resume URL                                | Personal Website URL              |
 |-------------------------------|-------------------|-------------------------------------------|-----------------------------------|           
 | Elia Rodriguez								|lost-kitten        |https://github.com/lost-kitten/boot_warmup/blob/master/week02/resume.md										|																						| 																	|
-| Tien Mata											|TienM										|	https://github.com/TienM/boot_warmup/blob/master/week02/resume.md																					| 																	|										
+| Tien Mata											|[TienM](https://github.com/TienM)										|	[TienM](https://github.com/TienM/boot_warmup/blob/master/week02/resume.md)																					| 																	|										
 | Edgar Salinas									|	EdgarHSalinas									|			https://github.com/EdgarHSalinas																			|																|
 | Sarah Silva								  	|[sarahsilva1](https://github.com/sarahsilva1)				|[ssilva_resume](https://github.com/sarahsilva1/boot_warmup/blob/master/week02/resume.md)																						| 																	|
 | Gulmaro Salinas								|	[Djaw](https://github.com/Djaw)	|	|	[gsalinasj.com](http://gsalinasj.com)																				| 																	|
