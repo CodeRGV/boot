@@ -25,13 +25,17 @@ left_pad('foo', 4)
 ##### Level 1*
 - [ ] *created basic module*
 - [ ] *available on github*
+
 ##### Level 2*
 - [ ] *published on npm*
+
 ##### Level 3*
 - [ ] *github repo has descriptive readme.md* For help in this take a look at other [repo's](https://github.com/stevemao/left-pad). 
 Your readme.md should contain how to install it, and example usage cases. You should be using [markdown features](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) such as syntax coloring.
+
 ##### Level 4
 - [ ] *uses ES6 conventions* [1](https://github.com/airbnb/javascript) [2](https://webapplog.com/es6/)
+
 ##### Level 5
 - [ ] *it is unit tested and fully covered* [1](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
 
