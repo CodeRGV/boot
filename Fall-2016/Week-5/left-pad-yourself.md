@@ -2,7 +2,7 @@
 #### Week 5 {Foundation Challenge}
 
 ### Assignment
-Left-pad is a controversial module that [broke](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) half of the internet, and lead to funny piece such as [1](https://news.ycombinator.com/item?id=11350651) [2](https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558) and others. 
+Left-pad is a controversial module that [broke](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) half of the internet, and lead to funny articles such as [1](https://news.ycombinator.com/item?id=11350651) [2](https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558) and others. 
 
 Your assignment is to replicate either the left-pad module or the right-pad module and you will publish to NPM. Of course you will write your own code for each.
 
