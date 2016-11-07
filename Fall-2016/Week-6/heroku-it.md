@@ -11,4 +11,4 @@ Now that Guestbook is done, it's time for the world to see your projects. Today 
 - **Do not** commit your usernames and passwords to github
 
 ### Submission
-This will be simple, post your heroku link to slack and you will be done!
+This will be simple, post your heroku link to slack and you will be done! If you are done, and have extra time make sure your Guestbook is *beautiful,* the nicer the better! After that review a bit for [Angular](https://thinkster.io/a-better-way-to-learn-angularjs). We'll be using this resource quite a bit.
