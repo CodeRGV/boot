@@ -17,3 +17,4 @@
 | José Adrian Cantu	             [jacantu](https://github.com/jacantu)						
 | Christina Phillips|										|																						| 																	|
 |Leonardo I. Escandon Jackson|   [Bururik](https://github.com/Bururik)   |   [lejackson_resume](https://github.com/Bururik/boot_warmup/blob/master/resume_10-11-2016.md)   |   Non Existent   |
+//
