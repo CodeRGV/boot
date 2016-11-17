@@ -26,7 +26,8 @@ You can use any tool, any framework, anything. There are some restrictions:
 * Your project must be publicly accessible, and a URL to it must be available in your `README.md`
 * **DO NOT** get distracted with other projects, unless you are completely finished to an excellent standard. Also do not be absent unless you have an excuse. These last couple of weeks are critical.
 
-*Not a requirement but **highly** encouraged:*
+*Not a requirement but __highly__ encouraged:*
 * Make sure your app is fully covered with automated tests. Look more into [Unit testing](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
+
 #### Part 3 - Submission
 *TBA*
