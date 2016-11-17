@@ -1,5 +1,5 @@
 # Make it - *if it ain't broke break it*
-#### Week 8 - {Capstone Project}
+#### Week 8 - {Capstone Project} - Due: 11/25 9:00 AM
 
 ### Assignment
 For Week-8 you will be remaking your favorite website. You will create everything from the front-end to the back-end, this is a big project so we will break it down a bit.
