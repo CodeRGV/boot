@@ -18,6 +18,8 @@ Your proposal, at a minimum, should include:
 
 You will only be allowed to start coding after you receive approval on your proposal. Proposal meetings will happen virtually Friday and over the weekend and in-person on Monday. Reach out to @Jose on Slack to schedule.
 
+Everyone will make a different website so the faster you schedule your meeting the higher the chances of you getting the website you want!
+
 #### Part 2 - Coding
 You can use any tool, any framework, anything. There are some restrictions:
 * You must track your project on Github, you must have frequent commits. At least 2 a day.
