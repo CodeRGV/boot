@@ -13,9 +13,8 @@
 | Silvia Ramirez								|[slyram69](https://github.com/slyram69)|																						| 																	|
 | Marco Barrientos							|										|																						| 																	|
 | Laura Morfin									|https://github.com/LauraMorfin										|																						| 																	|
-| Casey Cantu										|										|																						| 																	|
+| Casey Cantu										|[Flyjin88](https://github.com/Flyjin88)										|																						| 																	|
 | José Adrian Cantu							|[jacantu](https://github.com/jacantu)|
 | Christina Phillips|				Ph3n0m3n0n						|			https://github.com/Ph3n0m3n0n																			| 																	|
 |Leonardo I. Escandon Jackson|   [Bururik](https://github.com/Bururik)   |   [lejackson_resume](https://github.com/Bururik/boot_warmup/blob/master/resume_10-11-2016.md)   |   Non Existent   |
 | Miguel Esparza 							  	|[mikedavinci](https://github.com/mikedavinci)				|[mikedavinci_resume](http://mikedavinci.com)													
-
